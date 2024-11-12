@@ -26,7 +26,7 @@ function App() {
           </section>
           
           <section className="bg-white p-8 shadow-lg rounded-lg">
-            <h2 className="text-2xl font-semibold text-blue-600 mb-4">View Shared Files</h2>
+            
             <ViewSharedFile />
           </section>
         </div>
